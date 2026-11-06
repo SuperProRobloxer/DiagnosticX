@@ -14,7 +14,11 @@ Packaged inside a single drag-and-drop container, it provides strict type safety
 
 pre-boot log ingestion, and low-overhead stack analysis without external
 
-dependencies or obfuscation.
+dependencies or obfuscation. It was built using assistance from Generative AI.
+
+It will be open source and free, forever. Audit the code, review it, and edit it to your needs.
+
+Read the documentation further below for more information.
 
 
 
