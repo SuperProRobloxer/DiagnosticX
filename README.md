@@ -1,6 +1,6 @@
 # DIAGNOSTICX
 
-DiagnosticX is a lightweight, zero-dependency APM and telemetry framework built to catch, decompile, and analyze client/server runtime errors in Roblox. Packaged inside a single drag-and-drop container, it provides strict type safety, pre-boot log ingestion, and low-overhead stack analysis without external dependencies or obfuscation. It was built using assistance from Generative AI.
+DiagnosticX is a lightweight, zero-dependency APM and telemetry framework built to catch, decompile, and analyze client/server runtime errors in Roblox. Packaged inside a single drag-and-drop container, it provides strict type safety, pre-boot log ingestion, and low-overhead stack analysis without external dependencies or obfuscation. It was built using assistance from Generative AI, with a method called vibe-engineering. Heres the link to use if you wish to get the model, https://create.roblox.com/store/asset/83504413364136/DiagnosticX-Beta
 
 It will be open source and free, forever. Audit the code, review it, and edit it to your needs. Read the documentation further below for more information.
 
